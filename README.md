@@ -34,7 +34,7 @@ For more info about intents checkout the [official Discord.js guide page](https:
 
 Create a folder within your projects directory and run the following inside it:
 
-`git clone https://github.com/KLMcCaughan/KTC-Bot.git.`
+`git clone https://github.com/KillTheCan/KTC-Bot.git`
 
 Once finished:
 
